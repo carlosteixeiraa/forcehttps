@@ -2,4 +2,4 @@ RewriteEngine On
 RewriteCond %{SERVER_PORT} 80 
 RewriteRule ^(.*)$ https://www.yourwebsite.domain/$1 [R,L]
 
-Change https://www.yourwebsite.domain to your website url, and don't forget to delete this line, thanks.
+Change https://www.yourwebsite.domain to your website url, and don't forget to delete this line, thanks for using.
